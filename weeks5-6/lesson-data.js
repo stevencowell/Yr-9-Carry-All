@@ -5,7 +5,7 @@ window.LESSON_CONFIG = {
 };
 window.MC_QUESTIONS = [
   {
-    "question": "Which statement best captures the main idea in \"Understanding box-pin joints for Carry-All corners\"",
+    "question": "Which statement best captures the main idea in \"Comparing box-pin joints as alternative knowledge\"",
     "options": [
       "Box-pin joints gain strength and accuracy from interlocking form, sound long-grain gluing surfaces and carefully matched components.",
       "A weak approach is forcing a tight joint together or relying on adhesive to fill inaccurate gaps.",
@@ -13,7 +13,7 @@ window.MC_QUESTIONS = [
       "Guessing is acceptable when the result looks close."
     ],
     "correct": 0,
-    "hint": "Return to \"Understanding box-pin joints for Carry-All corners\" and identify its controlling principle.",
+    "hint": "Return to \"Comparing box-pin joints as alternative knowledge\" and identify its controlling principle.",
     "strongHint": "The best answer connects the Carry-All task to this idea: Box-pin joints gain strength and accuracy from interlocking form, sound long-grain gluing surfaces and carefully matched components.",
     "feedback": [
       "Correct. Box-pin joints gain strength and accuracy from interlocking form, sound long-grain gluing surfaces and carefully matched components.",
@@ -23,19 +23,19 @@ window.MC_QUESTIONS = [
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Understanding box-pin joints for Carry-All corners\"",
+    "question": "What is the strongest next action when applying \"Comparing box-pin joints as alternative knowledge\"",
     "options": [
       "Remove more material immediately.",
-      "Dry-assemble each corner and check pin fit, edge alignment and orientation before adhesive application.",
+      "Explain how the box-pin form differs from the required rebate-and-housing construction without marking or cutting project stock.",
       "Wait until the final lesson to inspect the result.",
       "Copy another student without checking the drawing."
     ],
     "correct": 1,
     "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: Dry-assemble each corner and check pin fit, edge alignment and orientation before adhesive application.",
+    "strongHint": "The strongest action is: Explain how the box-pin form differs from the required rebate-and-housing construction without marking or cutting project stock.",
     "feedback": [
       "Removing material before diagnosis can create a second fault.",
-      "Correct. Dry-assemble each corner and check pin fit, edge alignment and orientation before adhesive application.",
+      "Correct. Explain how the box-pin form differs from the required rebate-and-housing construction without marking or cutting project stock.",
       "Progressive checking is safer and cheaper than a final surprise.",
       "Another student’s work is not a controlling source."
     ]
@@ -64,20 +64,20 @@ window.MC_QUESTIONS = [
       "An unrelated internet image with no caption.",
       "A final photo that hides the relevant detail.",
       "A copied definition with no Carry-All example.",
-      "Include a close-up dry-fit photograph with a caption identifying one fit or alignment check and any approved correction."
+      "Include a labelled comparison note that identifies the box-pin principle and states that the assessed Carry-All uses rebate-and-housing."
     ],
     "correct": 3,
     "hint": "Useful evidence should prove a real stage, decision or check in this Carry-All.",
-    "strongHint": "Look for evidence that records the actual Carry-All process: Include a close-up dry-fit photograph with a caption identifying one fit or alignment check and any approved correction.",
+    "strongHint": "Look for evidence that distinguishes theory from the actual Carry-All process: Include a labelled comparison note that identifies the box-pin principle and states that the assessed Carry-All uses rebate-and-housing.",
     "feedback": [
       "Unrelated images do not prove student work.",
       "A photograph must reveal the relevant detail.",
       "A definition alone does not show application.",
-      "Correct. Include a close-up dry-fit photograph with a caption identifying one fit or alignment check and any approved correction."
+      "Correct. Include a labelled comparison note that identifies the box-pin principle and states that the assessed Carry-All uses rebate-and-housing."
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Understanding dovetail joints for Carry-All corners\"",
+    "question": "Which statement best captures the main idea in \"Comparing dovetail joints as alternative knowledge\"",
     "options": [
       "Dovetail strength comes from its interlocking shape, accurate transfer and close-fitting sound surfaces.",
       "A weak approach is measuring the matching joint separately or forcing together tails and pins that do not fit.",
@@ -85,7 +85,7 @@ window.MC_QUESTIONS = [
       "Guessing is acceptable when the result looks close."
     ],
     "correct": 0,
-    "hint": "Return to \"Understanding dovetail joints for Carry-All corners\" and identify its controlling principle.",
+    "hint": "Return to \"Comparing dovetail joints as alternative knowledge\" and identify its controlling principle.",
     "strongHint": "The best answer connects the Carry-All task to this idea: Dovetail strength comes from its interlocking shape, accurate transfer and close-fitting sound surfaces.",
     "feedback": [
       "Correct. Dovetail strength comes from its interlocking shape, accurate transfer and close-fitting sound surfaces.",
@@ -95,19 +95,19 @@ window.MC_QUESTIONS = [
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Understanding dovetail joints for Carry-All corners\"",
+    "question": "What is the strongest next action when applying \"Comparing dovetail joints as alternative knowledge\"",
     "options": [
       "Remove more material immediately.",
-      "Transfer and dry-fit each dovetail corner under teacher direction before adhesive is applied.",
+      "Explain how the dovetail form differs from the required rebate-and-housing construction without marking or cutting project stock.",
       "Wait until the final lesson to inspect the result.",
       "Copy another student without checking the drawing."
     ],
     "correct": 1,
     "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: Transfer and dry-fit each dovetail corner under teacher direction before adhesive is applied.",
+    "strongHint": "The strongest action is: Explain how the dovetail form differs from the required rebate-and-housing construction without marking or cutting project stock.",
     "feedback": [
       "Removing material before diagnosis can create a second fault.",
-      "Correct. Transfer and dry-fit each dovetail corner under teacher direction before adhesive is applied.",
+      "Correct. Explain how the dovetail form differs from the required rebate-and-housing construction without marking or cutting project stock.",
       "Progressive checking is safer and cheaper than a final surprise.",
       "Another student’s work is not a controlling source."
     ]
@@ -136,50 +136,50 @@ window.MC_QUESTIONS = [
       "An unrelated internet image with no caption.",
       "A final photo that hides the relevant detail.",
       "A copied definition with no Carry-All example.",
-      "Include a close-up dry-fit photograph with a caption explaining the tail-and-pin alignment and one fit check."
+      "Include a labelled comparison note that identifies the dovetail principle and states that the assessed Carry-All uses rebate-and-housing."
     ],
     "correct": 3,
     "hint": "Useful evidence should prove a real stage, decision or check in this Carry-All.",
-    "strongHint": "Look for evidence that records the actual Carry-All process: Include a close-up dry-fit photograph with a caption explaining the tail-and-pin alignment and one fit check.",
+    "strongHint": "Look for evidence that distinguishes theory from the actual Carry-All process: Include a labelled comparison note that identifies the dovetail principle and states that the assessed Carry-All uses rebate-and-housing.",
     "feedback": [
       "Unrelated images do not prove student work.",
       "A photograph must reveal the relevant detail.",
       "A definition alone does not show application.",
-      "Correct. Include a close-up dry-fit photograph with a caption explaining the tail-and-pin alignment and one fit check."
+      "Correct. Include a labelled comparison note that identifies the dovetail principle and states that the assessed Carry-All uses rebate-and-housing."
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Choosing and practising the Carry-All corner joint\"",
+    "question": "Which statement best captures the main idea in \"Applying the assessed rebate-and-housing construction\"",
     "options": [
-      "Joint selection should balance project requirements, skill, safe approved processes and the quality that can be achieved reliably.",
-      "A weak approach is choosing the more complex joint for appearance without first demonstrating accurate practice and fit.",
+      "The supplied drawing requires rebate-and-housing construction; box-pin and dovetail remain comparative theory only.",
+      "A weak approach is substituting an alternative joint or marking it on project stock.",
       "Appearance is the only evidence that matters.",
       "Guessing is acceptable when the result looks close."
     ],
     "correct": 0,
-    "hint": "Return to \"Choosing and practising the Carry-All corner joint\" and identify its controlling principle.",
-    "strongHint": "The best answer connects the Carry-All task to this idea: Joint selection should balance project requirements, skill, safe approved processes and the quality that can be achieved reliably.",
+    "hint": "Return to \"Applying the assessed rebate-and-housing construction\" and identify its controlling principle.",
+    "strongHint": "The best answer connects the Carry-All task to this idea: The supplied drawing requires rebate-and-housing construction; box-pin and dovetail remain comparative theory only.",
     "feedback": [
-      "Correct. Joint selection should balance project requirements, skill, safe approved processes and the quality that can be achieved reliably.",
+      "Correct. The supplied drawing requires rebate-and-housing construction; box-pin and dovetail remain comparative theory only.",
       "That describes a likely problem, not the main principle.",
       "The Carry-All is judged on function, process and evidence as well as appearance.",
       "A controlled project uses verified information rather than guesses."
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Choosing and practising the Carry-All corner joint\"",
+    "question": "What is the strongest next action when applying \"Applying the assessed rebate-and-housing construction\"",
     "options": [
       "Remove more material immediately.",
-      "Complete and evaluate one teacher-approved scrap joint before marking the final Carry-All corner components.",
+      "Practise the teacher-demonstrated rebate-and-housing checks on approved scrap before marking project stock.",
       "Wait until the final lesson to inspect the result.",
       "Copy another student without checking the drawing."
     ],
     "correct": 1,
     "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: Complete and evaluate one teacher-approved scrap joint before marking the final Carry-All corner components.",
+    "strongHint": "The strongest action is: Practise the teacher-demonstrated rebate-and-housing checks on approved scrap before marking project stock.",
     "feedback": [
       "Removing material before diagnosis can create a second fault.",
-      "Correct. Complete and evaluate one teacher-approved scrap joint before marking the final Carry-All corner components.",
+      "Correct. Practise the teacher-demonstrated rebate-and-housing checks on approved scrap before marking project stock.",
       "Progressive checking is safer and cheaper than a final surprise.",
       "Another student’s work is not a controlling source."
     ]
@@ -189,16 +189,16 @@ window.MC_QUESTIONS = [
     "options": [
       "The student records a check in the folio.",
       "The student asks for the approved source.",
-      "A weak approach is choosing the more complex joint for appearance without first demonstrating accurate practice and fit.",
+      "A weak approach is substituting an alternative joint or marking it on project stock.",
       "The student compares the result with the brief."
     ],
     "correct": 2,
     "hint": "Look for the option that describes a specific Carry-All fault or weak process.",
-    "strongHint": "The warning sign is: A weak approach is choosing the more complex joint for appearance without first demonstrating accurate practice and fit.",
+    "strongHint": "The warning sign is: A weak approach is substituting an alternative joint or marking it on project stock.",
     "feedback": [
       "Recording a check supports quality.",
       "Using the approved source supports safe and accurate work.",
-      "Correct. A weak approach is choosing the more complex joint for appearance without first demonstrating accurate practice and fit.",
+      "Correct. A weak approach is substituting an alternative joint or marking it on project stock.",
       "Comparison with the brief is a sound quality step."
     ]
   },
@@ -208,23 +208,23 @@ window.MC_QUESTIONS = [
       "An unrelated internet image with no caption.",
       "A final photo that hides the relevant detail.",
       "A copied definition with no Carry-All example.",
-      "Include a labelled practice-joint photograph explaining the chosen joint, one fault identified and the planned improvement."
+      "Include an annotated drawing or dry-fit photograph naming the required rebate-and-housing check, any fault and the approved response."
     ],
     "correct": 3,
     "hint": "Useful evidence should prove a real stage, decision or check in this Carry-All.",
-    "strongHint": "Look for evidence that records the actual Carry-All process: Include a labelled practice-joint photograph explaining the chosen joint, one fault identified and the planned improvement.",
+    "strongHint": "Look for evidence that records the actual Carry-All process: Include an annotated drawing or dry-fit photograph naming the required rebate-and-housing check, any fault and the approved response.",
     "feedback": [
       "Unrelated images do not prove student work.",
       "A photograph must reveal the relevant detail.",
       "A definition alone does not show application.",
-      "Correct. Include a labelled practice-joint photograph explaining the chosen joint, one fault identified and the planned improvement."
+      "Correct. Include an annotated drawing or dry-fit photograph naming the required rebate-and-housing check, any fault and the approved response."
     ]
   }
 ];
 window.WRITTEN_QUESTIONS = [
   {
-    "title": "1. Apply: Understanding box-pin joints for Carry-All corners",
-    "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "title": "1. Compare: Box-pin joints as alternative knowledge",
+    "prompt": "Explain the box-pin principle, compare it with the required rebate-and-housing construction and state why it must not be used on Carry-All project stock.",
     "minWords": 75,
     "concepts": [
       {
@@ -233,7 +233,7 @@ window.WRITTEN_QUESTIONS = [
           "understanding",
           "box-pin",
           "joints",
-          "carry-all"
+          "alternative"
         ]
       },
       {
@@ -242,8 +242,8 @@ window.WRITTEN_QUESTIONS = [
           "carry-all",
           "project",
           "component",
-          "joint",
-          "stage"
+          "rebate",
+          "housing"
         ]
       },
       {
@@ -260,19 +260,19 @@ window.WRITTEN_QUESTIONS = [
     ],
     "scaffold": [
       "The main principle is…",
-      "In the Carry-All project, this matters when…",
+       "This is comparative knowledge because…",
       "I would check or prove the result by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Understanding box-pin joints for Carry-All corners\".",
-      "Apply the idea to a specific Carry-All stage or decision.",
+      "State the controlling idea from \"Comparing box-pin joints as alternative knowledge\".",
+      "Compare it with the assessed rebate-and-housing construction.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Box-pin joints gain strength and accuracy from interlocking form, sound long-grain gluing surfaces and carefully matched components. A strong Carry-All response would dry-assemble each corner and check pin fit, edge alignment and orientation before adhesive application. The folio could prove this with a close-up dry-fit photograph with a caption identifying one fit or alignment check and any approved correction."
+    "model": "Box-pin joints use alternating pins and spaces to create an interlocking corner. This is useful comparative knowledge, but the supplied Carry-All drawing requires rebate-and-housing construction. A strong response states that box-pin geometry must not be marked or cut on project stock and uses a labelled comparison note rather than presenting it as manufacture evidence."
   },
   {
-    "title": "2. Apply: Understanding dovetail joints for Carry-All corners",
-    "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "title": "2. Compare: Dovetail joints as alternative knowledge",
+    "prompt": "Explain the dovetail principle, compare it with the required rebate-and-housing construction and state why it must not be used on Carry-All project stock.",
     "minWords": 75,
     "concepts": [
       {
@@ -281,7 +281,7 @@ window.WRITTEN_QUESTIONS = [
           "understanding",
           "dovetail",
           "joints",
-          "carry-all"
+          "alternative"
         ]
       },
       {
@@ -290,8 +290,8 @@ window.WRITTEN_QUESTIONS = [
           "carry-all",
           "project",
           "component",
-          "joint",
-          "stage"
+          "rebate",
+          "housing"
         ]
       },
       {
@@ -308,28 +308,28 @@ window.WRITTEN_QUESTIONS = [
     ],
     "scaffold": [
       "The main principle is…",
-      "In the Carry-All project, this matters when…",
+       "This is comparative knowledge because…",
       "I would check or prove the result by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Understanding dovetail joints for Carry-All corners\".",
-      "Apply the idea to a specific Carry-All stage or decision.",
+      "State the controlling idea from \"Comparing dovetail joints as alternative knowledge\".",
+      "Compare it with the assessed rebate-and-housing construction.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Dovetail strength comes from its interlocking shape, accurate transfer and close-fitting sound surfaces. A strong Carry-All response would transfer and dry-fit each dovetail corner under teacher direction before adhesive is applied. The folio could prove this with a close-up dry-fit photograph with a caption explaining the tail-and-pin alignment and one fit check."
+    "model": "Dovetail joints use matching tails and pins whose sloping form helps resist separation. This is useful comparative knowledge, but the supplied Carry-All drawing requires rebate-and-housing construction. A strong response states that dovetail geometry must not be marked or cut on project stock and uses a labelled comparison note rather than presenting it as manufacture evidence."
   },
   {
-    "title": "3. Apply: Choosing and practising the Carry-All corner joint",
-    "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "title": "3. Apply: The assessed rebate-and-housing construction",
+    "prompt": "Explain how the supplied drawing controls the required rebate-and-housing construction and describe one drawing, mark-out or dry-fit check that should appear in your folio.",
     "minWords": 75,
     "concepts": [
       {
         "label": "section idea",
         "terms": [
-          "choosing",
-          "practising",
-          "carry-all",
-          "corner"
+          "assessed",
+          "rebate",
+          "housing",
+          "drawing"
         ]
       },
       {
@@ -338,7 +338,7 @@ window.WRITTEN_QUESTIONS = [
           "carry-all",
           "project",
           "component",
-          "joint",
+          "rebate",
           "stage"
         ]
       },
@@ -360,11 +360,11 @@ window.WRITTEN_QUESTIONS = [
       "I would check or prove the result by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Choosing and practising the Carry-All corner joint\".",
+      "State the controlling idea from \"Applying the assessed rebate-and-housing construction\".",
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Joint selection should balance project requirements, skill, safe approved processes and the quality that can be achieved reliably. A strong Carry-All response would complete and evaluate one teacher-approved scrap joint before marking the final Carry-All corner components. The folio could prove this with a labelled practice-joint photograph explaining the chosen joint, one fault identified and the planned improvement."
+    "model": "The supplied working drawing requires rebate-and-housing construction, including the 5 mm rebate butt joint and 5 mm housing where shown. Box-pin and dovetail remain comparative theory only. A strong response would explain how consistent references, clear waste identification and a teacher checkpoint protect project stock. The folio could prove this with an annotated drawing or dry-fit photograph naming the check, any fault and the approved response."
   },
   {
     "title": "4. Connect the two-week module",
@@ -372,7 +372,7 @@ window.WRITTEN_QUESTIONS = [
     "minWords": 110,
     "concepts": [
       {
-        "label": "Understanding box-pin joints for Carry-All corners",
+        "label": "Comparing box-pin joints as alternative knowledge",
         "terms": [
           "understanding",
           "box-pin",
@@ -381,7 +381,7 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "Understanding dovetail joints for Carry-All corners",
+        "label": "Comparing dovetail joints as alternative knowledge",
         "terms": [
           "understanding",
           "dovetail",
@@ -390,12 +390,12 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "Choosing and practising the Carry-All corner joint",
+        "label": "Applying the assessed rebate-and-housing construction",
         "terms": [
-          "choosing",
-          "practising",
-          "carry-all",
-          "corner"
+          "assessed",
+          "rebate",
+          "housing",
+          "drawing"
         ]
       }
     ],
@@ -405,10 +405,10 @@ window.WRITTEN_QUESTIONS = [
       "Together, the three checks improve the Carry-All by…"
     ],
     "prompts": [
-      "Include a specific idea from \"Understanding box-pin joints for Carry-All corners\".",
-      "Include a specific idea from \"Understanding dovetail joints for Carry-All corners\".",
-      "Include a specific idea from \"Choosing and practising the Carry-All corner joint\"."
+      "Include a specific idea from \"Comparing box-pin joints as alternative knowledge\".",
+      "Include a specific idea from \"Comparing dovetail joints as alternative knowledge\".",
+      "Include a specific idea from \"Applying the assessed rebate-and-housing construction\"."
     ],
-    "model": "Weeks 5-6 connect three parts of the same project. Box-pin joints gain strength and accuracy from interlocking form, sound long-grain gluing surfaces and carefully matched components. Dovetail strength comes from its interlocking shape, accurate transfer and close-fitting sound surfaces. Joint selection should balance project requirements, skill, safe approved processes and the quality that can be achieved reliably. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Weeks 5-6 distinguish comparative knowledge from assessed manufacture. Box-pin joints use alternating pins and spaces, while dovetails use matching tails and pins. Neither is the required Carry-All joint. The supplied drawing requires rebate-and-housing construction, so project evidence must show drawing interpretation, approved mark-out or dry-fit checks rather than an alternative-joint choice. Together, these ideas build broader joint knowledge while keeping the assessed construction authoritative."
   }
 ];

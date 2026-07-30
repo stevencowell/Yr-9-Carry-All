@@ -77,7 +77,7 @@ window.MC_QUESTIONS = [
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Controlling a tenon saw cut for accurate joints\"",
+    "question": "Which statement best captures the main idea in \"Controlling approved cuts for rebate-and-housing features\"",
     "options": [
       "Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force.",
       "A weak approach is cutting directly through the line and trying to correct a wandering saw while forcing it forward.",
@@ -85,7 +85,7 @@ window.MC_QUESTIONS = [
       "Guessing is acceptable when the result looks close."
     ],
     "correct": 0,
-    "hint": "Return to \"Controlling a tenon saw cut for accurate joints\" and identify its controlling principle.",
+    "hint": "Return to \"Controlling approved cuts for rebate-and-housing features\" and identify its controlling principle.",
     "strongHint": "The best answer connects the Carry-All task to this idea: Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force.",
     "feedback": [
       "Correct. Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force.",
@@ -95,7 +95,7 @@ window.MC_QUESTIONS = [
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Controlling a tenon saw cut for accurate joints\"",
+    "question": "What is the strongest next action when applying \"Controlling approved cuts for rebate-and-housing features\"",
     "options": [
       "Remove more material immediately.",
       "Confirm the waste side and secure the component before beginning the teacher-approved tenon saw cut.",
@@ -149,7 +149,7 @@ window.MC_QUESTIONS = [
     ]
   },
   {
-    "question": "Which statement best captures the main idea in \"Chiselling and fine-tuning Carry-All joints\"",
+    "question": "Which statement best captures the main idea in \"Refining required rebates and housings\"",
     "options": [
       "Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced.",
       "A weak approach is chiselling away a large area whenever the joint feels tight and relying on adhesive to fill the result.",
@@ -157,7 +157,7 @@ window.MC_QUESTIONS = [
       "Guessing is acceptable when the result looks close."
     ],
     "correct": 0,
-    "hint": "Return to \"Chiselling and fine-tuning Carry-All joints\" and identify its controlling principle.",
+    "hint": "Return to \"Refining required rebates and housings\" and identify its controlling principle.",
     "strongHint": "The best answer connects the Carry-All task to this idea: Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced.",
     "feedback": [
       "Correct. Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced.",
@@ -167,7 +167,7 @@ window.MC_QUESTIONS = [
     ]
   },
   {
-    "question": "What is the strongest next action when applying \"Chiselling and fine-tuning Carry-All joints\"",
+    "question": "What is the strongest next action when applying \"Refining required rebates and housings\"",
     "options": [
       "Remove more material immediately.",
       "Identify the exact high spot during dry fitting before making one small teacher-approved correction.",
@@ -271,7 +271,7 @@ window.WRITTEN_QUESTIONS = [
     "model": "Consistent reference surfaces and common datums prevent small marking errors from spreading across the Carry-All. A strong Carry-All response would mark the face side, face edge and waste areas on every approved component before setting out joints or housings. The folio could prove this with an annotated photograph showing the reference marks, a square line and how repeated positions were taken from one datum."
   },
   {
-    "title": "2. Apply: Controlling a tenon saw cut for accurate joints",
+    "title": "2. Apply: Controlling approved cuts for rebate-and-housing features",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
     "minWords": 75,
     "concepts": [
@@ -312,14 +312,14 @@ window.WRITTEN_QUESTIONS = [
       "I would check or prove the result by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Controlling a tenon saw cut for accurate joints\".",
+      "State the controlling idea from \"Controlling approved cuts for rebate-and-housing features\".",
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
     "model": "Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force. A strong Carry-All response would confirm the waste side and secure the component before beginning the teacher-approved tenon saw cut. The folio could prove this with a close-up photograph showing the preserved layout line and a caption explaining the waste-side accuracy check."
   },
   {
-    "title": "3. Apply: Chiselling and fine-tuning Carry-All joints",
+    "title": "3. Apply: Refining required rebates and housings",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
     "minWords": 75,
     "concepts": [
@@ -360,7 +360,7 @@ window.WRITTEN_QUESTIONS = [
       "I would check or prove the result by…"
     ],
     "prompts": [
-      "State the controlling idea from \"Chiselling and fine-tuning Carry-All joints\".",
+      "State the controlling idea from \"Refining required rebates and housings\".",
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
@@ -381,7 +381,7 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "Controlling a tenon saw cut for accurate joints",
+        "label": "Controlling approved cuts for rebate-and-housing features",
         "terms": [
           "controlling",
           "tenon",
@@ -390,7 +390,7 @@ window.WRITTEN_QUESTIONS = [
         ]
       },
       {
-        "label": "Chiselling and fine-tuning Carry-All joints",
+        "label": "Refining required rebates and housings",
         "terms": [
           "chiselling",
           "fine-tuning",
@@ -406,8 +406,8 @@ window.WRITTEN_QUESTIONS = [
     ],
     "prompts": [
       "Include a specific idea from \"Establishing reference faces and marking accurately\".",
-      "Include a specific idea from \"Controlling a tenon saw cut for accurate joints\".",
-      "Include a specific idea from \"Chiselling and fine-tuning Carry-All joints\"."
+      "Include a specific idea from \"Controlling approved cuts for rebate-and-housing features\".",
+      "Include a specific idea from \"Refining required rebates and housings\"."
     ],
     "model": "Weeks 7-8 connect three parts of the same project. Consistent reference surfaces and common datums prevent small marking errors from spreading across the Carry-All. Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force. Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
   }

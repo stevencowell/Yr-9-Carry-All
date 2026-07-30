@@ -51,27 +51,27 @@ const CARDS=[
   ],
   [
     "joint-choice",
-    "Corner Joint Choice and Practice",
-    "Justify the approved box-pin or dovetail choice and show how scrap practice improved control.",
-    "Comparison criteria, labelled joint parts, practice sample, teacher feedback, fit checks and a reasoned joint choice.",
-    "Why was your selected joint suitable for this Carry-All and your current skill level?",
+    "Required Construction and Comparative Joint Knowledge",
+    "Use the supplied drawing to identify rebate-and-housing as the assessed construction, while explaining how box-pin and dovetail knowledge remains comparative only.",
+    "Annotated drawing evidence, the 5 mm rebate-butt and housing notes where shown, a clear required-versus-comparative statement and teacher clarification where needed.",
+    "How does the drawing prove which joints are required for this Carry-All?",
     [
-      "I selected the… joint because…",
-      "My practice sample showed…"
+      "The assessed Carry-All uses…",
+      "Box-pin and dovetail are comparative only because…"
     ],
-    "Box-pin and dovetail samples compared for form, fit, challenge and intended use."
+    "Supplied working drawing annotated to distinguish the required rebate-and-housing construction from alternative-joint theory."
   ],
   [
     "joint-making",
-    "Mark-out and Corner Joint Construction",
-    "Explain how references, layout lines, waste-side cutting and careful refinement produced the corner fit.",
-    "Face side/face edge marks, layout evidence, cutting sequence, test fits, observed faults and measured corrections.",
-    "Which mark or check had the greatest effect on the joint quality?",
+    "Mark-out and Rebate-and-Housing Construction",
+    "Explain how consistent references, visible layout lines, waste identification and teacher-approved checks controlled the required rebates and housings.",
+    "Face-side and face-edge marks, rebate/housing layout, waste identification, approved scrap practice, progressive fit checks and any teacher-approved correction.",
+    "Which reference mark or fit check had the greatest effect on the rebate-and-housing quality?",
     [
       "My reference surfaces were…",
-      "I preserved the line by…"
+      "The rebate or housing check showed…"
     ],
-    "Carry-All corner joint progressing from reference marks to a controlled test fit."
+    "Required rebate-and-housing features progressing from drawing interpretation to a controlled dry fit."
   ],
   [
     "structure",
@@ -157,7 +157,7 @@ function cards(){ $('folioCards').innerHTML=CARDS.map(c=>`<article class="folio-
 function session(){const r={},n={},d={},p={};CARDS.forEach(c=>{r[c.key]=$(`response-${c.key}`).value;n[c.key]=$(`note-${c.key}`).value;d[c.key]=document.querySelector(`[data-done="${c.key}"]`).checked;const i=document.querySelector(`[data-preview="${c.key}"]`);if(i.dataset.data)p[c.key]={name:i.dataset.name||`${c.key}.jpg`,data:i.dataset.data};});return{version:1,project:'Year 9 Timber Carry-All Project Folio',savedAt:new Date().toISOString(),student:{first:$('studentFirst').value,last:$('studentLast').value,className:$('studentClass').value,date:$('sessionDate').value},responses:r,notes:n,done:d,photos:p};}
 function setPhoto(k,p){const i=document.querySelector(`[data-preview="${k}"]`);i.src=p.data;i.dataset.data=p.data;i.dataset.name=p.name||`${k}.jpg`;i.style.display='block';}
 function apply(x){const s=x.student||{};$('studentFirst').value=s.first||'';$('studentLast').value=s.last||'';$('studentClass').value=s.className||'';$('sessionDate').value=s.date||'';CARDS.forEach(c=>{$(`response-${c.key}`).value=x.responses?.[c.key]||'';$(`note-${c.key}`).value=x.notes?.[c.key]||'';document.querySelector(`[data-done="${c.key}"]`).checked=!!x.done?.[c.key];if(x.photos?.[c.key])setPhoto(c.key,x.photos[c.key]);});save(false);status('Saved folio restored.');}
-function progress(){const x=session(),done=CARDS.filter(c=>x.done[c.key]||(x.responses[c.key].trim()&&x.notes[c.key].trim())).length;$('progressCount').textContent=`${done} of ${CARDS.length} evidence cards complete`;$('progressBar').style.width=`${done/CARDS.length*100}%`;}
+function progress(){const x=session(),done=CARDS.filter(c=>x.responses[c.key].trim()&&x.notes[c.key].trim()).length;$('progressCount').textContent=`${done} of ${CARDS.length} evidence cards complete`;$('progressBar').style.width=`${done/CARDS.length*100}%`;}
 function save(show=true){localStorage.setItem(STORE,JSON.stringify(session()));progress();if(show)status(`Saved ${new Date().toLocaleTimeString()}.`);}
 function compress(file){return new Promise((ok,bad)=>{const r=new FileReader();r.onerror=bad;r.onload=()=>{const im=new Image();im.onerror=bad;im.onload=()=>{const scale=Math.min(1,1400/Math.max(im.width,im.height)),can=document.createElement('canvas');can.width=Math.round(im.width*scale);can.height=Math.round(im.height*scale);can.getContext('2d').drawImage(im,0,0,can.width,can.height);ok({name:file.name.replace(/\.[^.]+$/,'.jpg'),data:can.toDataURL('image/jpeg',.82)});};im.src=r.result;};r.readAsDataURL(file);});}
 function crc(b){let c=-1;for(let v of b){c^=v;for(let i=0;i<8;i++)c=(c>>>1)^(0xedb88320&-(c&1));}return(c^-1)>>>0;}function w16(a,o,v){a[o]=v&255;a[o+1]=v>>>8&255}function w32(a,o,v){a[o]=v&255;a[o+1]=v>>>8&255;a[o+2]=v>>>16&255;a[o+3]=v>>>24&255}function join(a){let n=a.reduce((x,y)=>x+y.length,0),r=new Uint8Array(n),o=0;a.forEach(x=>{r.set(x,o);o+=x.length});return r}

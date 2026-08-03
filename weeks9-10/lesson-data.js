@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Form and check the rebate from verified references so the plywood base is supported consistently throughout the Carry-All. A strong Carry-All response would dry-assemble the rebated components and trial the plywood base before adhesive application. The folio could prove this with a labelled close-up showing the rebate shoulder, depth surface and a trial check of the plywood base."
+    "model": "Form and check the rebate from verified references so the plywood base is supported consistently throughout the Carry-All. For my Carry-All, I would dry-assemble the rebated components and trial the plywood base before adhesive application."
   },
   {
     "title": "2. Apply: Locating dividers and the handle with housing joints",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Matching housings must be marked from consistent references and checked together before final assembly. A strong Carry-All response would dry-assemble the sides, dividers and handle panel to confirm housing alignment before adhesive is applied. The folio could prove this with an annotated dry-fit photograph showing matching housings and explaining how divider or handle alignment was checked."
+    "model": "Matching housings must be marked from consistent references and checked together before final assembly. For my Carry-All, I would dry-assemble the sides, dividers and handle panel to confirm housing alignment before adhesive is applied."
   },
   {
     "title": "3. Apply: Dry fitting the Carry-All structure",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Check the whole structure for fit, orientation, squareness and twist before committing to final assembly. A strong Carry-All response would complete a full dry assembly and resolve every fit or alignment fault before adhesive is prepared. The folio could prove this with an annotated dry-fit photograph identifying the base fit, corner seating and one squareness or twist check."
+    "model": "Check the whole structure for fit, orientation, squareness and twist before committing to final assembly. For my Carry-All, I would complete a full dry assembly and resolve every fit or alignment fault before adhesive is prepared."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Locating dividers and the handle with housing joints\".",
       "Include a specific idea from \"Dry fitting the Carry-All structure\"."
     ],
-    "model": "Weeks 9-10 connect three parts of the same project. Form and check the rebate from verified references so the plywood base is supported consistently throughout the Carry-All. Matching housings must be marked from consistent references and checked together before final assembly. Check the whole structure for fit, orientation, squareness and twist before committing to final assembly. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Form and check the rebate from verified references so the plywood base is supported consistently throughout the Carry-All. Matching housings must be marked from consistent references and checked together before final assembly. Check the whole structure for fit, orientation, squareness and twist before committing to final assembly."
   }
 ];

@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Consistent reference surfaces and common datums prevent small marking errors from spreading across the Carry-All. A strong Carry-All response would mark the face side, face edge and waste areas on every approved component before setting out joints or housings. The folio could prove this with an annotated photograph showing the reference marks, a square line and how repeated positions were taken from one datum."
+    "model": "Consistent reference surfaces and common datums prevent small marking errors from spreading across the Carry-All. For my Carry-All, I would mark the face side, face edge and waste areas on every approved component before setting out joints or housings."
   },
   {
     "title": "2. Apply: Controlling approved cuts for rebate-and-housing features",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force. A strong Carry-All response would confirm the waste side and secure the component before beginning the teacher-approved tenon saw cut. The folio could prove this with a close-up photograph showing the preserved layout line and a caption explaining the waste-side accuracy check."
+    "model": "Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force. For my Carry-All, I would confirm the waste side and secure the component before beginning the teacher-approved tenon saw cut."
   },
   {
     "title": "3. Apply: Refining required rebates and housings",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced. A strong Carry-All response would identify the exact high spot during dry fitting before making one small teacher-approved correction. The folio could prove this with a close-up photograph showing the preserved layout line and a caption explaining one small fit correction."
+    "model": "Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced. For my Carry-All, I would identify the exact high spot during dry fitting before making one small teacher-approved correction."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Controlling approved cuts for rebate-and-housing features\".",
       "Include a specific idea from \"Refining required rebates and housings\"."
     ],
-    "model": "Weeks 7-8 connect three parts of the same project. Consistent reference surfaces and common datums prevent small marking errors from spreading across the Carry-All. Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force. Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Consistent reference surfaces and common datums prevent small marking errors from spreading across the Carry-All. Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force. Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced."
   }
 ];

@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Handle quality depends on accurate drawing compliance, comfortable clearance, sound structure and balanced placement. A strong Carry-All response would check the approved handle template, written opening and dry-fit position before shaping or final assembly. The folio could prove this with an annotated dry-fit photograph explaining the handle clearance, alignment and balance check."
+    "model": "Handle quality depends on accurate drawing compliance, comfortable clearance, sound structure and balanced placement. For my Carry-All, I would check the approved handle template, written opening and dry-fit position before shaping or final assembly."
   },
   {
     "title": "2. Apply: Communicating the handle through orthogonal drawing and a template",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "A template is accurate only when it has been checked against the drawing, dimensions, centre line and approved orientation. A strong Carry-All response would verify the full-size template against the written 178 mm opening and approved centre line before transferring it. The folio could prove this with an annotated photograph showing the verified template aligned with the handle panel’s centre and reference marks."
+    "model": "A template is accurate only when it has been checked against the drawing, dimensions, centre line and approved orientation. For my Carry-All, I would verify the full-size template against the written 178 mm opening and approved centre line before transferring it."
   },
   {
     "title": "3. Apply: Shaping and refining the Carry-All handle safely",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Preserving the boundary line and checking often provides more control than attempting the final handle shape in one cut. A strong Carry-All response would verify the handle markings and workholding before beginning the teacher-approved staged removal process. The folio could prove this with two labelled photographs showing the opening outside the line during rough shaping and the later symmetry check."
+    "model": "Preserving the boundary line and checking often provides more control than attempting the final handle shape in one cut. For my Carry-All, I would verify the handle markings and workholding before beginning the teacher-approved staged removal process."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Communicating the handle through orthogonal drawing and a template\".",
       "Include a specific idea from \"Shaping and refining the Carry-All handle safely\"."
     ],
-    "model": "Weeks 11-12 connect three parts of the same project. Handle quality depends on accurate drawing compliance, comfortable clearance, sound structure and balanced placement. A template is accurate only when it has been checked against the drawing, dimensions, centre line and approved orientation. Preserving the boundary line and checking often provides more control than attempting the final handle shape in one cut. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Handle quality depends on accurate drawing compliance, comfortable clearance, sound structure and balanced placement. A template is accurate only when it has been checked against the drawing, dimensions, centre line and approved orientation. Preserving the boundary line and checking often provides more control than attempting the final handle shape in one cut."
   }
 ];

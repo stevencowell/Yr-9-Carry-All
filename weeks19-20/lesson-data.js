@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Evidence should create an ordered and verifiable account of how the Carry-All was planned, made, checked and evaluated. A strong Carry-All response would create an ordered evidence checklist before the next practical stage so important photographs and decisions are not missed. The folio could prove this with a captioned dry-assembly photograph identifying the stage, action, fit check, result and approved correction."
+    "model": "Evidence should create an ordered and verifiable account of how the Carry-All was planned, made, checked and evaluated. For my Carry-All, I would create an ordered evidence checklist before the next practical stage so important photographs and decisions are not missed."
   },
   {
     "title": "2. Apply: Diagnosing and correcting Carry-All problems",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Effective correction depends on evidence-based diagnosis rather than removing more material or forcing the assembly. A strong Carry-All response would stop at the first unexpected fault and record the symptom, likely causes and checks before making any correction. The folio could prove this with before-and-after photographs with a caption explaining the symptom, diagnosed cause, approved correction and result."
+    "model": "Effective correction depends on evidence-based diagnosis rather than removing more material or forcing the assembly. For my Carry-All, I would stop at the first unexpected fault and record the symptom, likely causes and checks before making any correction."
   },
   {
     "title": "3. Apply: Using PMI to evaluate the completed Carry-All",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Evaluate the Carry-All against the brief using balanced, specific and verifiable evidence rather than personal opinion alone. A strong Carry-All response would select one verified example for each PMI category before writing the final evaluation. The folio could prove this with a PMI table linked to annotated photographs of one strength, one limitation and one interesting production insight."
+    "model": "Evaluate the Carry-All against the brief using balanced, specific and verifiable evidence rather than personal opinion alone. For my Carry-All, I would select one verified example for each PMI category before writing the final evaluation."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Diagnosing and correcting Carry-All problems\".",
       "Include a specific idea from \"Using PMI to evaluate the completed Carry-All\"."
     ],
-    "model": "Weeks 19-20 connect three parts of the same project. Evidence should create an ordered and verifiable account of how the Carry-All was planned, made, checked and evaluated. Effective correction depends on evidence-based diagnosis rather than removing more material or forcing the assembly. Evaluate the Carry-All against the brief using balanced, specific and verifiable evidence rather than personal opinion alone. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Evidence should create an ordered and verifiable account of how the Carry-All was planned, made, checked and evaluated. Effective correction depends on evidence-based diagnosis rather than removing more material or forcing the assembly. Evaluate the Carry-All against the brief using balanced, specific and verifiable evidence rather than personal opinion alone."
   }
 ];

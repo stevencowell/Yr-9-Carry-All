@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Compare it with the assessed rebate-and-housing construction.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Box-pin joints use alternating pins and spaces to create an interlocking corner. This is useful comparative knowledge, but the supplied Carry-All drawing requires rebate-and-housing construction. A strong response states that box-pin geometry must not be marked or cut on project stock and uses a labelled comparison note rather than presenting it as manufacture evidence."
+    "model": "Box-pin joints use alternating pins and spaces to make an interlocking corner. For my Carry-All, I would keep this as comparison theory because the drawing requires rebate-and-housing joints; I would not mark box pins on project timber."
   },
   {
     "title": "2. Compare: Dovetail joints as alternative knowledge",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Compare it with the assessed rebate-and-housing construction.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Dovetail joints use matching tails and pins whose sloping form helps resist separation. This is useful comparative knowledge, but the supplied Carry-All drawing requires rebate-and-housing construction. A strong response states that dovetail geometry must not be marked or cut on project stock and uses a labelled comparison note rather than presenting it as manufacture evidence."
+    "model": "Dovetail joints use matching tails and pins whose sloping shape helps resist separation. For my Carry-All, I would keep this as comparison theory because the drawing requires rebate-and-housing joints; I would not mark dovetails on project timber."
   },
   {
     "title": "3. Apply: The assessed rebate-and-housing construction",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "The supplied working drawing requires rebate-and-housing construction, including the 5 mm rebate butt joint and 5 mm housing where shown. Box-pin and dovetail remain comparative theory only. A strong response would explain how consistent references, clear waste identification and a teacher checkpoint protect project stock. The folio could prove this with an annotated drawing or dry-fit photograph naming the check, any fault and the approved response."
+    "model": "The drawing requires the shown 5 mm rebate butt joint and 5 mm housing. I would use consistent references, mark the waste clearly and ask for a teacher check before cutting; box-pin and dovetail joints remain comparison theory."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Comparing dovetail joints as alternative knowledge\".",
       "Include a specific idea from \"Applying the assessed rebate-and-housing construction\"."
     ],
-    "model": "Weeks 5-6 distinguish comparative knowledge from assessed manufacture. Box-pin joints use alternating pins and spaces, while dovetails use matching tails and pins. Neither is the required Carry-All joint. The supplied drawing requires rebate-and-housing construction, so project evidence must show drawing interpretation, approved mark-out or dry-fit checks rather than an alternative-joint choice. Together, these ideas build broader joint knowledge while keeping the assessed construction authoritative."
+    "model": "Box-pin and dovetail joints help me compare corner-joint methods, but neither is required for this Carry-All. I would follow the drawing’s rebate-and-housing construction and use mark-out or dry-fit evidence to show my checks."
   }
 ];

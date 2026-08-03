@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Adhesive supports close-fitting joints but cannot restore timber removed through inaccurate manufacture. A strong Carry-All response would read the approved adhesive label and SDS, then prepare the complete assembly sequence before application begins. The folio could prove this with a captioned photograph showing controlled adhesive application and an alignment check during clamping."
+    "model": "Adhesive supports close-fitting joints but cannot restore timber removed through inaccurate manufacture. For my Carry-All, I would read the approved adhesive label and SDS, then prepare the complete assembly sequence before application begins."
   },
   {
     "title": "2. Apply: Clamping the Carry-All square and true",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Planned clamp placement, gradual pressure and repeated alignment checks prevent bow, twist and damage during assembly. A strong Carry-All response would arrange and rehearse the complete clamp setup during dry assembly before adhesive is applied. The folio could prove this with an annotated clamping photograph showing pads, clamp positions and the squareness or diagonal check."
+    "model": "Planned clamp placement, gradual pressure and repeated alignment checks prevent bow, twist and damage during assembly. For my Carry-All, I would arrange and rehearse the complete clamp setup during dry assembly before adhesive is applied."
   },
   {
     "title": "3. Apply: Maintaining tools and organising the workspace",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Tool condition and workspace organisation directly affect safety, accuracy and the quality of the finished Carry-All. A strong Carry-All response would inspect the required tools and clear the work area before beginning the next Carry-All stage. The folio could prove this with a captioned photograph showing correctly stored tools, protected sharp edges and separated reusable off-cuts."
+    "model": "Tool condition and workspace organisation directly affect safety, accuracy and the quality of the finished Carry-All. For my Carry-All, I would inspect the required tools and clear the work area before beginning the next Carry-All stage."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Clamping the Carry-All square and true\".",
       "Include a specific idea from \"Maintaining tools and organising the workspace\"."
     ],
-    "model": "Weeks 13-14 connect three parts of the same project. Adhesive supports close-fitting joints but cannot restore timber removed through inaccurate manufacture. Planned clamp placement, gradual pressure and repeated alignment checks prevent bow, twist and damage during assembly. Tool condition and workspace organisation directly affect safety, accuracy and the quality of the finished Carry-All. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Adhesive supports close-fitting joints but cannot restore timber removed through inaccurate manufacture. Planned clamp placement, gradual pressure and repeated alignment checks prevent bow, twist and damage during assembly. Tool condition and workspace organisation directly affect safety, accuracy and the quality of the finished Carry-All."
   }
 ];

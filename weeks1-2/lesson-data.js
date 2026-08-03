@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Use the approved drawing, safety requirements and progressive quality checks to guide every stage of manufacture. A strong Carry-All response would read the working drawing and identify each required component, joint and quality checkpoint before practical work begins. The folio could prove this with an annotated dry-assembly photograph explaining the fit, alignment check and any correction made before adhesive was applied."
+    "model": "Use the approved drawing, safety requirements and progressive quality checks to guide every stage of manufacture. For my Carry-All, I would read the working drawing and identify each required component, joint and quality checkpoint before practical work begins."
   },
   {
     "title": "2. Apply: Reading the Carry-All working drawing without scaling",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Written dimensions and verified drawing information always override the apparent size of the illustration. A strong Carry-All response would identify each written specification and trace its dimension and extension lines before marking any material. The folio could prove this with an annotated drawing extract showing how the 400 mm overall length was located and cross-checked across the views."
+    "model": "Written dimensions and verified drawing information always override the apparent size of the illustration. For my Carry-All, I would identify each written specification and trace its dimension and extension lines before marking any material."
   },
   {
     "title": "3. Apply: Managing Carry-All hazards, risks and the SWMS",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Use the hierarchy of controls and the stage-specific SWMS to manage risk before and during practical work. A strong Carry-All response would review the next Carry-All stage in the SWMS and confirm its hazards and controls before beginning work. The folio could prove this with a captioned process photograph identifying one stage-specific hazard and the controls applied before work commenced."
+    "model": "Use the hierarchy of controls and the stage-specific SWMS to manage risk before and during practical work. For my Carry-All, I would review the next Carry-All stage in the SWMS and confirm its hazards and controls before beginning work."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Reading the Carry-All working drawing without scaling\".",
       "Include a specific idea from \"Managing Carry-All hazards, risks and the SWMS\"."
     ],
-    "model": "Weeks 1-2 connect three parts of the same project. Use the approved drawing, safety requirements and progressive quality checks to guide every stage of manufacture. Written dimensions and verified drawing information always override the apparent size of the illustration. Use the hierarchy of controls and the stage-specific SWMS to manage risk before and during practical work. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Use the approved drawing, safety requirements and progressive quality checks to guide every stage of manufacture. Written dimensions and verified drawing information always override the apparent size of the illustration. Use the hierarchy of controls and the stage-specific SWMS to manage risk before and during practical work."
   }
 ];

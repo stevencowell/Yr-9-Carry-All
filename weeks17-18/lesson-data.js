@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Finish selection must be based on product suitability, verified safety information and teacher-approved workshop procedures. A strong Carry-All response would review the approved product label and SDS, then complete a test piece before finishing the Carry-All. The folio could prove this with a photograph of the approved test piece with a caption explaining compatibility, appearance and one safety requirement."
+    "model": "Finish selection must be based on product suitability, verified safety information and teacher-approved workshop procedures. For my Carry-All, I would review the approved product label and SDS, then complete a test piece before finishing the Carry-All."
   },
   {
     "title": "2. Apply: Applying and inspecting the approved finish",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Finish quality depends on product-specific application, clean conditions and evidence-based inspection between stages. A strong Carry-All response would read the approved product directions and prepare a stage-by-stage inspection record before application begins. The folio could prove this with a close-up photograph from one finishing stage with a caption identifying the coverage check, defect inspection and decision to continue."
+    "model": "Finish quality depends on product-specific application, clean conditions and evidence-based inspection between stages. For my Carry-All, I would read the approved product directions and prepare a stage-by-stage inspection record before application begins."
   },
   {
     "title": "3. Apply: Checking accuracy, function and workmanship",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Judge the completed Carry-All against verified criteria from the drawing, brief and teacher directions rather than appearance alone. A strong Carry-All response would complete a systematic final inspection and record each result before writing the evaluation. The folio could prove this with an annotated final-inspection photograph showing a joint check, stability test and one finish or touch-safety observation."
+    "model": "Judge the completed Carry-All against verified criteria from the drawing, brief and teacher directions rather than appearance alone. For my Carry-All, I would complete a systematic final inspection and record each result before writing the evaluation."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Applying and inspecting the approved finish\".",
       "Include a specific idea from \"Checking accuracy, function and workmanship\"."
     ],
-    "model": "Weeks 17-18 connect three parts of the same project. Finish selection must be based on product suitability, verified safety information and teacher-approved workshop procedures. Finish quality depends on product-specific application, clean conditions and evidence-based inspection between stages. Judge the completed Carry-All against verified criteria from the drawing, brief and teacher directions rather than appearance alone. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Finish selection must be based on product suitability, verified safety information and teacher-approved workshop procedures. Finish quality depends on product-specific application, clean conditions and evidence-based inspection between stages. Judge the completed Carry-All against verified criteria from the drawing, brief and teacher directions rather than appearance alone."
   }
 ];

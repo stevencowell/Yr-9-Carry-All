@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Safe manual handling depends on planning the movement, using assistance when directed and keeping the workshop free from hazards. A strong Carry-All response would clear the travel path and confirm a stable destination before moving the next material or Carry-All component. The folio could prove this with a captioned photograph showing a clear walkway and Carry-All components stored securely on approved supports."
+    "model": "Safe manual handling depends on planning the movement, using assistance when directed and keeping the workshop free from hazards. For my Carry-All, I would clear the travel path and confirm a stable destination before moving the next material or Carry-All component."
   },
   {
     "title": "2. Apply: Sequencing the Carry-All work in a useful SWMS",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Sequence work so every stage, hazard, control, dependency and approval is considered before practical action begins. A strong Carry-All response would divide the Carry-All build into ordered stages and add one clear hold point before each major commitment. The folio could prove this with an annotated SWMS extract showing a dry-assembly hold point, its hazards, controls and teacher approval."
+    "model": "Sequence work so every stage, hazard, control, dependency and approval is considered before practical action begins. For my Carry-All, I would divide the Carry-All build into ordered stages and add one clear hold point before each major commitment."
   },
   {
     "title": "3. Apply: Preparing Carry-All surfaces for finish",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "A quality finish depends on a consistently prepared surface that preserves the Carry-All’s intended form and joint details. A strong Carry-All response would inspect the complete Carry-All under suitable light and mark every fault that must be corrected before finishing. The folio could prove this with a close-up ready-for-finish photograph with a caption identifying the scratch, edge, dust and adhesive checks completed."
+    "model": "A quality finish depends on a consistently prepared surface that preserves the Carry-All’s intended form and joint details. For my Carry-All, I would inspect the complete Carry-All under suitable light and mark every fault that must be corrected before finishing."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Sequencing the Carry-All work in a useful SWMS\".",
       "Include a specific idea from \"Preparing Carry-All surfaces for finish\"."
     ],
-    "model": "Weeks 15-16 connect three parts of the same project. Safe manual handling depends on planning the movement, using assistance when directed and keeping the workshop free from hazards. Sequence work so every stage, hazard, control, dependency and approval is considered before practical action begins. A quality finish depends on a consistently prepared surface that preserves the Carry-All’s intended form and joint details. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Safe manual handling depends on planning the movement, using assistance when directed and keeping the workshop free from hazards. Sequence work so every stage, hazard, control, dependency and approval is considered before practical action begins. A quality finish depends on a consistently prepared surface that preserves the Carry-All’s intended form and joint details."
   }
 ];

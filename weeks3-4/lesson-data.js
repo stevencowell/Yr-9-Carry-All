@@ -26,16 +26,16 @@ window.MC_QUESTIONS = [
     "question": "What is the strongest next action when applying \"Selecting pine and plywood for the Carry-All\"",
     "options": [
       "Remove more material immediately.",
-      "Inspect the approved 12 mm pine and 3 mm plywood and confirm component placement with your teacher before marking.",
+      "Inspect the approved 12 mm pine and 3 mm plywood and confirm component placement with the teacher before marking.",
       "Wait until the final lesson to inspect the result.",
       "Copy another student without checking the drawing."
     ],
     "correct": 1,
     "hint": "Choose the action that uses verified information and a quality check.",
-    "strongHint": "The strongest action is: Inspect the approved 12 mm pine and 3 mm plywood and confirm component placement with your teacher before marking.",
+    "strongHint": "The strongest action is: Inspect the approved 12 mm pine and 3 mm plywood and confirm component placement with the teacher before marking.",
     "feedback": [
       "Removing material before diagnosis can create a second fault.",
-      "Correct. Inspect the approved 12 mm pine and 3 mm plywood and confirm component placement with your teacher before marking.",
+      "Correct. Inspect the approved 12 mm pine and 3 mm plywood and confirm component placement with the teacher before marking.",
       "Progressive checking is safer and cheaper than a final surprise.",
       "Another student’s work is not a controlling source."
     ]
@@ -268,7 +268,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Choose sound, stable and correctly specified material before accurate manufacture begins. A strong Carry-All response would inspect the approved 12 mm pine and 3 mm plywood and confirm component placement with your teacher before marking. The folio could prove this with a labelled photograph showing the selected stock and explaining one defect, grain or stability check."
+    "model": "Choose sound, stable and correctly specified material before accurate manufacture begins. For my Carry-All, I would inspect the approved 12 mm pine and 3 mm plywood and confirm component placement with the teacher before marking."
   },
   {
     "title": "2. Apply: Learning respectfully from Aboriginal and Torres Strait Islander timber technologies",
@@ -316,7 +316,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "First Nations timber technologies must be understood as diverse, place-based knowledge systems connected to Country, purpose and custodianship. A strong Carry-All response would use one teacher-approved First Nations source and identify the specific community, place and material-use lesson it communicates. The folio could prove this with a referenced folio paragraph linking a community-approved source to one Carry-All decision that reduced material waste."
+    "model": "First Nations timber technologies must be understood as diverse, place-based knowledge systems connected to Country, purpose and custodianship. For my Carry-All, I would use one teacher-approved First Nations source and identify the specific community, place and material-use lesson it communicates."
   },
   {
     "title": "3. Apply: Using timber responsibly and reducing project waste",
@@ -364,7 +364,7 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Responsible timber use depends on accurate planning, efficient layout and evidence-based material decisions. A strong Carry-All response would arrange and verify the complete component layout on teacher-approved stock before any material is cut. The folio could prove this with an annotated stock-layout photograph showing a defect avoided and a usable off-cut deliberately preserved."
+    "model": "Responsible timber use depends on accurate planning, efficient layout and evidence-based material decisions. For my Carry-All, I would arrange and verify the complete component layout on teacher-approved stock before any material is cut."
   },
   {
     "title": "4. Connect the two-week module",
@@ -409,6 +409,6 @@ window.WRITTEN_QUESTIONS = [
       "Include a specific idea from \"Learning respectfully from Aboriginal and Torres Strait Islander timber technologies\".",
       "Include a specific idea from \"Using timber responsibly and reducing project waste\"."
     ],
-    "model": "Weeks 3-4 connect three parts of the same project. Choose sound, stable and correctly specified material before accurate manufacture begins. First Nations timber technologies must be understood as diverse, place-based knowledge systems connected to Country, purpose and custodianship. Responsible timber use depends on accurate planning, efficient layout and evidence-based material decisions. Together, these ideas improve the Carry-All because the student can make a controlled decision, check the result and preserve useful evidence rather than relying on appearance or memory."
+    "model": "Choose sound, stable and correctly specified material before accurate manufacture begins. First Nations timber technologies must be understood as diverse, place-based knowledge systems connected to Country, purpose and custodianship. Responsible timber use depends on accurate planning, efficient layout and evidence-based material decisions."
   }
 ];

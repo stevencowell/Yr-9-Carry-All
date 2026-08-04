@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Forming the base rebate accurately",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "clarification": "What is the key idea in Forming the base rebate accurately? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -316,7 +317,8 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Matching housings must be marked from consistent references and checked together before final assembly. For my Carry-All, I would dry-assemble the sides, dividers and handle panel to confirm housing alignment before adhesive is applied."
+    "model": "Matching housings must be marked from consistent references and checked together before final assembly. For my Carry-All, I would dry-assemble the sides, dividers and handle panel to confirm housing alignment before adhesive is applied.",
+    "clarification": "What is the key idea in Locating dividers and the handle with housing joints? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "3. Apply: Dry fitting the Carry-All structure",
@@ -364,11 +366,13 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Check the whole structure for fit, orientation, squareness and twist before committing to final assembly. For my Carry-All, I would complete a full dry assembly and resolve every fit or alignment fault before adhesive is prepared."
+    "model": "Check the whole structure for fit, orientation, squareness and twist before committing to final assembly. For my Carry-All, I would complete a full dry assembly and resolve every fit or alignment fault before adhesive is prepared.",
+    "clarification": "What is the key idea in Dry fitting the Carry-All structure? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 9-10 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

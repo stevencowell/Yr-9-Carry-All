@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Understanding the Carry-All brief and success criteria",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "clarification": "What is the key idea in Understanding the Carry-All brief and success criteria? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -316,7 +317,8 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Written dimensions and verified drawing information always override the apparent size of the illustration. For my Carry-All, I would identify each written specification and trace its dimension and extension lines before marking any material."
+    "model": "Written dimensions and verified drawing information always override the apparent size of the illustration. For my Carry-All, I would identify each written specification and trace its dimension and extension lines before marking any material.",
+    "clarification": "What is the key idea in Reading the Carry-All working drawing without scaling? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "3. Apply: Managing Carry-All hazards, risks and the SWMS",
@@ -364,11 +366,13 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Use the hierarchy of controls and the stage-specific SWMS to manage risk before and during practical work. For my Carry-All, I would review the next Carry-All stage in the SWMS and confirm its hazards and controls before beginning work."
+    "model": "Use the hierarchy of controls and the stage-specific SWMS to manage risk before and during practical work. For my Carry-All, I would review the next Carry-All stage in the SWMS and confirm its hazards and controls before beginning work.",
+    "clarification": "What is the key idea in Managing Carry-All hazards, risks and the SWMS? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 1-2 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Building a traceable Carry-All evidence folio",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "clarification": "What is the key idea in Building a traceable Carry-All evidence folio? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -316,7 +317,8 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Effective correction depends on evidence-based diagnosis rather than removing more material or forcing the assembly. For my Carry-All, I would stop at the first unexpected fault and record the symptom, likely causes and checks before making any correction."
+    "model": "Effective correction depends on evidence-based diagnosis rather than removing more material or forcing the assembly. For my Carry-All, I would stop at the first unexpected fault and record the symptom, likely causes and checks before making any correction.",
+    "clarification": "What is the key idea in Diagnosing and correcting Carry-All problems? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "3. Apply: Using PMI to evaluate the completed Carry-All",
@@ -364,11 +366,13 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Evaluate the Carry-All against the brief using balanced, specific and verifiable evidence rather than personal opinion alone. For my Carry-All, I would select one verified example for each PMI category before writing the final evaluation."
+    "model": "Evaluate the Carry-All against the brief using balanced, specific and verifiable evidence rather than personal opinion alone. For my Carry-All, I would select one verified example for each PMI category before writing the final evaluation.",
+    "clarification": "What is the key idea in Using PMI to evaluate the completed Carry-All? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 19-20 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Establishing reference faces and marking accurately",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "clarification": "What is the key idea in Establishing reference faces and marking accurately? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -316,7 +317,8 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force. For my Carry-All, I would confirm the waste side and secure the component before beginning the teacher-approved tenon saw cut."
+    "model": "Accurate sawing depends on stable workholding, clear reference lines and controlled checking rather than force. For my Carry-All, I would confirm the waste side and secure the component before beginning the teacher-approved tenon saw cut.",
+    "clarification": "What is the key idea in Controlling approved cuts for rebate-and-housing features? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "3. Apply: Refining required rebates and housings",
@@ -364,11 +366,13 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced. For my Carry-All, I would identify the exact high spot during dry fitting before making one small teacher-approved correction."
+    "model": "Controlled paring and frequent checking protect joint accuracy because removed timber cannot be replaced. For my Carry-All, I would identify the exact high spot during dry fitting before making one small teacher-approved correction.",
+    "clarification": "What is the key idea in Refining required rebates and housings? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 7-8 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

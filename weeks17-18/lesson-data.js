@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Selecting an approved finish for the Carry-All",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "clarification": "What is the key idea in Selecting an approved finish for the Carry-All? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -316,7 +317,8 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Finish quality depends on product-specific application, clean conditions and evidence-based inspection between stages. For my Carry-All, I would read the approved product directions and prepare a stage-by-stage inspection record before application begins."
+    "model": "Finish quality depends on product-specific application, clean conditions and evidence-based inspection between stages. For my Carry-All, I would read the approved product directions and prepare a stage-by-stage inspection record before application begins.",
+    "clarification": "What is the key idea in Applying and inspecting the approved finish? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "3. Apply: Checking accuracy, function and workmanship",
@@ -364,11 +366,13 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Judge the completed Carry-All against verified criteria from the drawing, brief and teacher directions rather than appearance alone. For my Carry-All, I would complete a systematic final inspection and record each result before writing the evaluation."
+    "model": "Judge the completed Carry-All against verified criteria from the drawing, brief and teacher directions rather than appearance alone. For my Carry-All, I would complete a systematic final inspection and record each result before writing the evaluation.",
+    "clarification": "What is the key idea in Checking accuracy, function and workmanship? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 17-18 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

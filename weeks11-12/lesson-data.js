@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Designing a practical Carry-All handle",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "clarification": "What is the key idea in Designing a practical Carry-All handle? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -316,7 +317,8 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "A template is accurate only when it has been checked against the drawing, dimensions, centre line and approved orientation. For my Carry-All, I would verify the full-size template against the written 178 mm opening and approved centre line before transferring it."
+    "model": "A template is accurate only when it has been checked against the drawing, dimensions, centre line and approved orientation. For my Carry-All, I would verify the full-size template against the written 178 mm opening and approved centre line before transferring it.",
+    "clarification": "What is the key idea in Communicating the handle through orthogonal drawing and a template? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "3. Apply: Shaping and refining the Carry-All handle safely",
@@ -364,11 +366,13 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Preserving the boundary line and checking often provides more control than attempting the final handle shape in one cut. For my Carry-All, I would verify the handle markings and workholding before beginning the teacher-approved staged removal process."
+    "model": "Preserving the boundary line and checking often provides more control than attempting the final handle shape in one cut. For my Carry-All, I would verify the handle markings and workholding before beginning the teacher-approved staged removal process.",
+    "clarification": "What is the key idea in Shaping and refining the Carry-All handle safely? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 11-12 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

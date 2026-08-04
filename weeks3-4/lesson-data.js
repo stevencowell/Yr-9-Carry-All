@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Selecting pine and plywood for the Carry-All",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "clarification": "What is the key idea in Selecting pine and plywood for the Carry-All? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -316,7 +317,8 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "First Nations timber technologies must be understood as diverse, place-based knowledge systems connected to Country, purpose and custodianship. For my Carry-All, I would use one teacher-approved First Nations source and identify the specific community, place and material-use lesson it communicates."
+    "model": "First Nations timber technologies must be understood as diverse, place-based knowledge systems connected to Country, purpose and custodianship. For my Carry-All, I would use one teacher-approved First Nations source and identify the specific community, place and material-use lesson it communicates.",
+    "clarification": "What is the key idea in Learning respectfully from Aboriginal and Torres Strait Islander timber technologies? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "3. Apply: Using timber responsibly and reducing project waste",
@@ -364,11 +366,13 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Responsible timber use depends on accurate planning, efficient layout and evidence-based material decisions. For my Carry-All, I would arrange and verify the complete component layout on teacher-approved stock before any material is cut."
+    "model": "Responsible timber use depends on accurate planning, efficient layout and evidence-based material decisions. For my Carry-All, I would arrange and verify the complete component layout on teacher-approved stock before any material is cut.",
+    "clarification": "What is the key idea in Using timber responsibly and reducing project waste? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 3-4 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

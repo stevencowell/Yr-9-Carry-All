@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Compare: Box-pin joints as alternative knowledge",
     "prompt": "Explain the box-pin principle, compare it with the required rebate-and-housing construction and state why it must not be used on Carry-All project stock.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 75,
     "concepts": [
       {
@@ -260,7 +261,7 @@ window.WRITTEN_QUESTIONS = [
     ],
     "scaffold": [
       "The main principle is…",
-       "This is comparative knowledge because…",
+      "This is comparative knowledge because…",
       "I would check or prove the result by…"
     ],
     "prompts": [
@@ -273,6 +274,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "2. Compare: Dovetail joints as alternative knowledge",
     "prompt": "Explain the dovetail principle, compare it with the required rebate-and-housing construction and state why it must not be used on Carry-All project stock.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 75,
     "concepts": [
       {
@@ -308,7 +310,7 @@ window.WRITTEN_QUESTIONS = [
     ],
     "scaffold": [
       "The main principle is…",
-       "This is comparative knowledge because…",
+      "This is comparative knowledge because…",
       "I would check or prove the result by…"
     ],
     "prompts": [
@@ -321,6 +323,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "3. Apply: The assessed rebate-and-housing construction",
     "prompt": "Explain how the supplied drawing controls the required rebate-and-housing construction and describe one drawing, mark-out or dry-fit check that should appear in your folio.",
+    "clarification": "What is the key idea in The assessed rebate-and-housing construction? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -369,6 +372,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 5-6 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

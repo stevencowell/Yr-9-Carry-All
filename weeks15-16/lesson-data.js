@@ -225,6 +225,7 @@ window.WRITTEN_QUESTIONS = [
   {
     "title": "1. Apply: Manual handling and workshop housekeeping",
     "prompt": "Explain the main principle in this section and apply it to one real decision, fault diagnosis or quality check in the Carry-All project.",
+    "clarification": "What is the key idea in Manual handling and workshop housekeeping? How would you use it in a decision, fault check or quality check?",
     "minWords": 75,
     "concepts": [
       {
@@ -316,7 +317,8 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "Sequence work so every stage, hazard, control, dependency and approval is considered before practical action begins. For my Carry-All, I would divide the Carry-All build into ordered stages and add one clear hold point before each major commitment."
+    "model": "Sequence work so every stage, hazard, control, dependency and approval is considered before practical action begins. For my Carry-All, I would divide the Carry-All build into ordered stages and add one clear hold point before each major commitment.",
+    "clarification": "What is the key idea in Sequencing the Carry-All work in a useful SWMS? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "3. Apply: Preparing Carry-All surfaces for finish",
@@ -364,11 +366,13 @@ window.WRITTEN_QUESTIONS = [
       "Apply the idea to a specific Carry-All stage or decision.",
       "Finish with a clear quality or evidence check."
     ],
-    "model": "A quality finish depends on a consistently prepared surface that preserves the Carry-All’s intended form and joint details. For my Carry-All, I would inspect the complete Carry-All under suitable light and mark every fault that must be corrected before finishing."
+    "model": "A quality finish depends on a consistently prepared surface that preserves the Carry-All’s intended form and joint details. For my Carry-All, I would inspect the complete Carry-All under suitable light and mark every fault that must be corrected before finishing.",
+    "clarification": "What is the key idea in Preparing Carry-All surfaces for finish? How would you use it in a decision, fault check or quality check?"
   },
   {
     "title": "4. Connect the two-week module",
     "prompt": "Explain how the three topics in Weeks 15-16 work together to improve the safety, accuracy, quality, function or evidence of the Carry-All project.",
+    "clarification": "How do these three topics work together in the Carry-All project? What do they improve?",
     "minWords": 110,
     "concepts": [
       {

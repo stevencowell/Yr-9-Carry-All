@@ -1,0 +1,10 @@
+/* Task 34: the shared hero and intro replace repeated front-page material. */
+.course-bar,
+.evidence-notice,
+.stage-strip,
+.course-intro,
+.resource-panel,
+.folio-callout,
+.outcomes-section,
+.stage-overview { display:none!important; }
+.course-map .module-card a { background:transparent!important; border:0!important; border-radius:inherit!important; box-shadow:none!important; }

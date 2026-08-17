@@ -29,7 +29,7 @@
     ["Course", "index.html", isHome],
     ["Modules", "index.html#course-map", /\/weeks\d+-\d+\//.test(path)],
     ["Video learning", "youtube-library/", path.includes("/youtube-library/")],
-    ["Busy Work", "https://stevencowell.github.io/busy-worksheets/?library=timber", false, true],
+    ["Puzzles", "https://stevencowell.github.io/busy-worksheets/?library=timber", false, true],
     ["My folio", "carry-all-folio.html", path.endsWith("/carry-all-folio.html")],
     ["Project plans", "Carry-All%20Working%20Drawing.pdf", false],
     ["Teacher resources", "teacher-resources.html", path.endsWith("/teacher-resources.html")],
